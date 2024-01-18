@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: rgb(174, 37, 254);
+    overflow: hidden;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pixelify Sans', cursive;
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.orange {
+    background-color: #FF7F50;
+}
+.blue {
+    background-color: #63aac0;
+}
+.pink {
+    background-color: #FF69B4;
+}
+.coral {
+    background-color: #FFFACD;
+}
+.flash {
+    background-color: white;
+}
